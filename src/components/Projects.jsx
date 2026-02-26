@@ -8,23 +8,23 @@ const Projects = () => {
             title: 'E-Commerce Analytics',
             description: 'Plataforma centrada en métricas de rendimiento y conversión. Ayuda a vendedores a entender su tráfico en tiempo real y optimizar embudos de venta.',
             tech: ['React', 'Node.js', 'PostgreSQL', 'Recharts'],
-            github: '#',
+            github: 'https://github.com/Alerstein/Portafolio.git',
             demo: '#',
             image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop'
         },
         {
-            title: 'FinTech Dashboard',
+            title: 'Sitio web para arriendo',
             description: 'Interfaz financiera para seguimiento de criptomonedas y portafolios de inversión con gráficos interactivos y alertas.',
             tech: ['Next.js', 'TypeScript', 'Tailwind', 'Framer Motion'],
-            github: '#',
-            demo: '#',
+            github: 'https://github.com/Alerstein/Web-Dpto.git',
+            demo: 'https://departamento-a-pasos-del-mar.netlify.app/',
             image: 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=1974&auto=format&fit=crop'
         },
         {
             title: 'SaaS Productivity App',
             description: 'Herramienta de colaboración en tiempo real con tableros Kanban, chat integrado y gestión de documentos para equipos remotos.',
             tech: ['Vue', 'Express', 'MongoDB', 'Socket.io'],
-            github: '#',
+            github: 'https://github.com/Alerstein/Portafolio.git',
             demo: '#',
             image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop'
         }

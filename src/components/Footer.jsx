@@ -30,7 +30,7 @@ const Footer = () => {
             </div>
 
             <div className="footer-bottom">
-                <p>&copy; {currentYear} Martín Palma. Todos los derechos reservados.</p>
+                <p>&copy; {currentYear} Martín Palma Sandoval. Todos los derechos reservados.</p>
                 <p className="footer-credit">
                     Diseñado y desarrollado con <span className="text-accent">♥</span>
                 </p>
